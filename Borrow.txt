@@ -1,0 +1,18 @@
+Name: Saugat Ghimire
+Address: Itahari
+Contact: 9814330449
+Borrowed Date: 2019-01-18
+Book borrowed: 'Harry Potter'
+
+Name: Saugat Ghimie
+Address: Itahari
+Contact: 9821
+Borrowed Date: 2019-01-18
+Book borrowed: 'Start With Why'
+
+Name: Saugat
+Address: Itahari
+Contact: 9842131720
+Borrowed Date: 2019-05-01
+Book borrowed: 'Harry Potter'
+
